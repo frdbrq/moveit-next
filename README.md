@@ -50,6 +50,6 @@ $ yarn dev
 <a href="https://github.com/frdbrq">
  <img style="border-radius: 50%;" src="https://github.com/frdbrq.png" width="100px;" alt=""/>
  <br />
- <sub><b>Fred Buarque</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a> <br>
+ <sub><b>Fred Buarque</b></sub></a> <br>
 
 ### Projeto desenvolvido com carinho após acompanhar as aulas da NLW#04
